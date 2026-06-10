@@ -29,7 +29,7 @@
 - **Inscription** : création de compte avec spécialité et localité
 
 ### Pour l'administration
-- **Tableau de bord admin** (code : `4FANTASTIQUES`) : gestion des patients, médecins, assignations
+- **Tableau de bord admin**  : gestion des patients, médecins, assignations
 - **Configuration RAG** : paramétrage de l'URL du service RAG
 
 ---
